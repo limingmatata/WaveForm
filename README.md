@@ -2,6 +2,10 @@
 
 A cocoa audio player component which displays the waveform of the audio file.
 
+## Screenshot ##
+
+<img width=750 src="https://github.com/limingmatata/WaveForm/blob/master/Screen%20Shot%202015-11-17%20at%204.23.08%20AM.png"/>
+
 ## How to use it ? ##
 
 ### OSX
